@@ -8,6 +8,13 @@
 
 ## Research
 
+### Hunting the Cosmic Web
+
+### Tracking the baryon cycle
+
+### Unveiling the growth of galaxies
+
+### Chasing the co-evolution of galaxies and SMBHs
 
 ## Curriculum Vitae
 
