@@ -4,8 +4,7 @@
 
 ## News
 - July 2023: Started a 1-yr stay at Caltech as a visiting associate.
-- April 2023: Awarded 2023 MEXT Commendations for Science and Technology.
-  https://subarutelescope.org/en/news/topics/2023/05/25/3269.html
+- April 2023: Awarded 2023 MEXT Commendations for Science and Technology ([link](https://subarutelescope.org/en/news/topics/2023/05/25/3269.html)).
 
 ## Research
 
