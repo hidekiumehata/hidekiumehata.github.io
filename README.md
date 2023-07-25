@@ -1,1 +1,4 @@
-# hidekiumehata.github.io
+# Astronomer
+
+### Education
+Astronomy, Ph.D.
