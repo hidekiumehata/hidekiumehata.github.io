@@ -10,11 +10,19 @@
 
 ### Hunting the Cosmic Web
 
+The cosmic web is the network of matters dragged by the gravity, which is the fundamental prediction recalled by the current structure formation models. I'm leading a project to directly observe the gaseous network in emission.
+
 ### Tracking the baryon cycle
+
+Galaxies are not isolated in the Universe. They obtain fuels and angular momenta from the cosmic web, and eject metters and energy toward the intergalactic space. I'm approaching this frontier exploiting new methods, including both optical IFU and ALMA.
 
 ### Unveiling the growth of galaxies
 
+We are still ignorant about the details on what was going on in the ancient galaxies in their actively growing phase. I'm taccked this theme, utilizing various telescooes including ALMA and JWST.
+
 ### Chasing the co-evolution of galaxies and SMBHs
+
+The origin of the co-evolution is a major goal of modern astronomy. However, no one knows about the obscured phase. I'm trying to beat the long-standing issue, with the use of ALMA and JWST.
 
 ## Curriculum Vitae
 
