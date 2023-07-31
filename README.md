@@ -18,7 +18,7 @@ Galaxies are not isolated in the Universe. They obtain fuels and angular momenta
 
 ### Unveiling the growth of galaxies
 
-We are still ignorant about the details on what was going on in the ancient galaxies in their actively growing phase. I'm taccked this theme, utilizing various telescooes including ALMA and JWST.
+We are still ignorant about the details on what was going on in the ancient galaxies in their actively growing phase. I'm tackling this theme, utilizing various telescooes including ALMA and JWST.
 
 ### Chasing the co-evolution of galaxies and SMBHs
 
