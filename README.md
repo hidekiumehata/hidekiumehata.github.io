@@ -1,6 +1,6 @@
 # Astronomer
 
-#### I am a designated Assistant Professor at Nagoya University and a Visiting Associate at the California Institute of Technology, studying galaxy formation and evolution in the early universe. 
+#### I am a designated Assistant Professor at Nagoya University and a Visiting Researcher at the California Institute of Technology, studying galaxy formation and evolution in the early universe. 
 
 ## News
 - July 2023: Started a 1-yr stay at Caltech as a visiting associate.
